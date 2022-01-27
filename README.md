@@ -12,3 +12,4 @@ There are many reasons someone might venture here. From reading lore about my Du
 - [ ] Write [[About me]]
 - [ ] Expanded [[02 Programming/Goals for 2022]]
 - [ ] Migrate most recent RPG Systems into new [[Dungeons and Dragons Session]] template
+- [ ] Finish [[Environment - Programming]] and [[Environment - Hacking]]
