@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9250cfce102a11fd",
+        "id": "7e57be2b82c9321a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "+Welcome.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Welcome.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,8 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9250cfce102a11fd",
+  "active": "7e57be2b82c9321a",
   "lastOpenFiles": [
-    "+Welcome.md"
+    "README.md",
+    "00 About this Vault/+Welcome.md",
+    "03 Magic the Gathering/Decklist.md",
+    "02 Programming/Goals for 2022.md",
+    "02 Programming/Environment - Programming.md",
+    "01 Hacking/Goals for 2022.md",
+    "01 Hacking/Environment - Hacking.md",
+    "00 About this Vault/About me.md",
+    "99 Templates/Dungeons and Dragons Session.md",
+    "00 RPGs/Untitled.md"
   ]
 }
