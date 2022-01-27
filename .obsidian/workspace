@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "source",
+            "file": "+Home.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 302.5
   },
   "right": {
     "id": "60356fff7a315911",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "+Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "368b35b67e649e5a",
   "lastOpenFiles": [
-    "README.md",
+    "+Home.md",
+    "01 Hacking/Write-ups/nmap.md",
+    "DNS resolution.md",
+    "04 RPGs/Roleplaying MOC.md",
     "00 About this Vault/About me.md",
     "00 About this Vault/+Welcome.md",
-    "02 Programming/Environment - Programming.md",
     "02 Programming/Goals for 2022.md",
-    "instagram.com/kevinrollsdice.md",
-    "99 Templates/Dungeons and Dragons Session.md",
-    "03 Magic the Gathering/Decklist.md",
-    "01 Hacking/Goals for 2022.md",
-    "01 Hacking/Environment - Hacking.md"
+    "02 Programming/Programming MOC.md",
+    "06 Polynotes/Hiding trick in Obsidian.md",
+    "06 Polynotes/Polynotes MOC.md"
   ]
 }

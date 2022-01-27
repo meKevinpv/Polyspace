@@ -7,4 +7,4 @@ Kali Linux is an industustry-standard operating system for hackers. During [[Abo
 If you want to learn more about the basics of Kali Linux and hacking I really recommend the free (both in spirit and price) learning method of [Hack the Box](https://www.hackthebox.com/)
 
 ## Reconnaisance tools
-I have grown to dislike heavy tools like autorecon, eventough I understand the value they provide. This is why I use [nmap](https://nmap.org/), [searchsploit](https://www.exploit-db.com/searchsploit) and [Gobuster](https://github.com/OJ/gobuster). These 3 tools provide the nessecary information I need to understand the basic idea of what is happening on the system I am trying to hack into.
+I have grown to dislike heavy tools like autorecon, eventough I understand the value they provide. This is why I use [[nmap]], [searchsploit](https://www.exploit-db.com/searchsploit) and [Gobuster](https://github.com/OJ/gobuster). These 3 tools provide the nessecary information I need to understand the basic idea of what is happening on the system I am trying to hack into.

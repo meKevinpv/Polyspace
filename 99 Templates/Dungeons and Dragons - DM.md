@@ -1,8 +1,9 @@
 # {{Title}}
 Previous:
 Lore:
-Date (play): {{Date}}
-Date (started): {{Date}}
+Tags:
+Date (play): 
+Date (note): {{date}}
 ___
 ## Pre-session
 
