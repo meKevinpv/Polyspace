@@ -1,6 +1,7 @@
 Status: #Doing
 Tags: #Writeup #Hacking #nmap
 Links: [[Environment - Hacking]]
+MOC: [[Hacking MOC]]
 ___
 # Writeup - nmap
 Nmap is an **open-source** tool for network exploration.
@@ -29,7 +30,7 @@ Nmap has several different options that can be used, here I put the most relevan
 	- No ping, treat all hosts as active `-Pn`.
 		- This does some interesting things, first off it will always scan every IP. Secondly, it slows down the scan because default timing parameters are used to make sure there is time to respond. Thirdly, if you want to skip host discovery *and* port scanning use `-Pn -sn`.
 	- No [[DNS resolution]] `-n`
-	- Always [[DNS Resolution]] `-R`, fun to combine with `--resolve-all` which scans each resolved adress.
+	- Always [[DNS resolution]] `-R`, fun to combine with `--resolve-all` which scans each resolved adress.
 - Scanning techniques
 - Port specification
 - Service/Version detection
