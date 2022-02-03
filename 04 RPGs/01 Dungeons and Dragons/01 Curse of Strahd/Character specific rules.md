@@ -1,3 +1,4 @@
+[[Roleplaying MOC]]
 ## Ori specific rules
 To better support Ori being a truly Tiny character, the following rules are implemented:
 #### Custom fairy features

@@ -1,3 +1,4 @@
+[[+Home]]
 # Roleplaying
 - [[Curse of Strahd Index]]
 	- [[Character explained]]

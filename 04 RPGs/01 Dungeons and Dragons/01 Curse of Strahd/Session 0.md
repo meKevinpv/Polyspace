@@ -2,6 +2,7 @@
 Previous: none.
 Lore:
 Tags: #CurseOfStrahd
+MOC: [[+Home]]>[[Roleplaying MOC]]
 Date (play): 6-1-2022
 Date (note): 6-1-2022
 ___
