@@ -1,0 +1,12 @@
+@media print { 
+    .print .markdown-preview-view { 
+        -webkit-print-color-adjust: exact; 
+        
+        color: #000000;
+    }
+.print .markdown-preview-view .h1{ 
+        -webkit-print-color-adjust: exact; 
+        
+        color: #000000;
+    }
+}
