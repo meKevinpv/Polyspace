@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "05 Training/0802202 BC.md",
+            "file": "04 RPGs/01 Dungeons and Dragons/01 Curse of Strahd/Curse of Strahd Index.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 Training/0802202 BC.md",
+                "file": "04 RPGs/01 Dungeons and Dragons/01 Curse of Strahd/Curse of Strahd Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "58b088b1d717f189",
   "lastOpenFiles": [
+    "04 RPGs/01 Dungeons and Dragons/01 Curse of Strahd/Curse of Strahd Index.md",
+    "04 RPGs/01 Dungeons and Dragons/01 Curse of Strahd/Character specific rules.md",
+    "04 RPGs/01 Dungeons and Dragons/01 Curse of Strahd/Character explained.md",
+    "04 RPGs/01 Dungeons and Dragons/01 Curse of Strahd/Character cheat sheet.md",
+    "06 Polynotes/Polynotes MOC.md",
+    "06 Polynotes/Mermaid.md",
+    "06 Polynotes/Hiding trick in Obsidian.md",
     "05 Training/0802202 BC.md",
     "05 Training/Training MOC.md",
-    "01 Hacking/Goals for 2022.md",
-    "0802202 B/C.md",
-    "99 Templates/Training.md",
-    "99 Templates/Dungeons and Dragons - Player.md",
-    "+Home.md",
-    "MIT OpenCourseWare.md",
-    "02 Programming/Programming MOC.md",
-    "01 Hacking/Write-ups/nmap.md"
+    "01 Hacking/Goals for 2022.md"
   ]
 }
